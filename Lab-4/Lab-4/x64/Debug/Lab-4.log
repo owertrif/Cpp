@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Rabadon\source\repos\Lab-4\Lab-4\Source.cpp(393,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Rabadon\source\repos\Lab-4\Lab-4\Source.cpp(394,9): warning C4101: 'total_hp': unreferenced local variable
+C:\Users\Rabadon\source\repos\Lab-4\Lab-4\Source.cpp(410,9): warning C4101: 'total_hp': unreferenced local variable
+C:\Users\Rabadon\source\repos\Lab-4\Lab-4\Source.cpp(426,9): warning C4101: 'total_hp': unreferenced local variable
+C:\Users\Rabadon\source\repos\Lab-4\Lab-4\Source.cpp(491,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Rabadon\source\repos\Lab-4\Lab-4\Source.cpp(492,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab-4.vcxproj -> C:\Users\Rabadon\source\repos\Lab-4\x64\Debug\Lab-4.exe

@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Rabadon\source\repos\Practise\Practise\Source.cpp(279,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rabadon\source\repos\Practise\Practise\Source.cpp(279,20): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Rabadon\source\repos\Practise\Practise\Source.cpp(332,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rabadon\source\repos\Practise\Practise\Source.cpp(335,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rabadon\source\repos\Practise\Practise\Source.cpp(344,19): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Rabadon\source\repos\Practise\Practise\Source.cpp(230): warning C4715: 'Token_stream::get': not all control paths return a value
+C:\Users\Rabadon\source\repos\Practise\Practise\Source.cpp(339): warning C4715: 'primary': not all control paths return a value
+  Practise.vcxproj -> C:\Users\Rabadon\source\repos\Practise\x64\Debug\Practise.exe

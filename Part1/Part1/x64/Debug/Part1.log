@@ -1,0 +1,11 @@
+﻿  Game.cpp
+E:\Train\Part1\Part1\Game.cpp(453,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Part1.vcxproj -> E:\Train\Part1\x64\Debug\Part1.exe
